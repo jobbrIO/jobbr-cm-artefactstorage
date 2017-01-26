@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 
-namespace Jobbr.Server.Common
+namespace Jobbr.ComponentModel.ArtefactStorage
 {
     /// <summary>
     /// The ArtefactsStorageProvider interface.
