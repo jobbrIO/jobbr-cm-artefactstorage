@@ -11,6 +11,7 @@
     <copyright>Copyright 2016</copyright>
   </metadata>
   <files>
-    <file src="Jobbr.ComponentModel.ArtefactStorage.*" target="lib\net45"/>
+    <file src="Jobbr.ComponentModel.ArtefactStorage/bin/Release/Jobbr.ComponentModel.ArtefactStorage.dll" target="lib\net45"/>
+    <file src="Jobbr.ComponentModel.ArtefactStorage/bin/Release/Jobbr.ComponentModel.ArtefactStorage.pdb" target="lib\net45"/>
   </files>
 </package>
