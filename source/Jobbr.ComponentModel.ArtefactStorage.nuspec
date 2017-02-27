@@ -8,7 +8,7 @@
     <projectUrl>http://github.com/jobbrIO/jobbr-cm-artefactstorage</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Jobbr is a .NET JobServer</description>
-    <copyright>Copyright 2016</copyright>
+    <copyright>Copyright 2017</copyright>
   </metadata>
   <files>
     <file src="Jobbr.ComponentModel.ArtefactStorage/bin/Release/Jobbr.ComponentModel.ArtefactStorage.dll" target="lib\net45"/>
