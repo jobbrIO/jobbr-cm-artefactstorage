@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using Jobbr.ComponentModel.ArtefactStorage.Model;
 
 namespace Jobbr.ComponentModel.ArtefactStorage
 {
