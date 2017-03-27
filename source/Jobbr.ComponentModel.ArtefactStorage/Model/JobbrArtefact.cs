@@ -9,7 +9,5 @@ namespace Jobbr.ComponentModel.ArtefactStorage.Model
         public string MimeType { get; set; }
         
         public long Size { get; set; }
-
-        public Stream Data { get; set; }
     }
 }
