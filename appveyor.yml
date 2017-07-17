@@ -24,9 +24,8 @@ build:
   project: source/Jobbr.ComponentModel.ArtefactStorage.sln
 
 after_build:
-  - cmd: ECHO nuget pack source\Jobbr.ComponentModel.ArtefactStorage.nuspec -version "%GitVersion_NuGetVersion%" -prop "target=%CONFIGURATION%"
-  - cmd: nuget pack source\Jobbr.ComponentModel.ArtefactStorage.nuspec -version "%GitVersion_NuGetVersion%" -prop "target=%CONFIGURATION%"
-  - cmd: appveyor PushArtifact "Jobbr.ComponentModel.ArtefactStorage.%GitVersion_NuGetVersion%.nupkg"
+  - cmd: nuget pack source\Jobbr.ComponentModel.ArtefactStorage.nuspec -version "%GitVersion_SemVer%" -prop "target=%CONFIGURATION%"
+  - cmd: appveyor PushArtifact "Jobbr.ComponentModel.ArtefactStorage.%GitVersion_SemVer%.nupkg"
 
 deploy:
 - provider: NuGet
