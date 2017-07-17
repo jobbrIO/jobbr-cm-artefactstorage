@@ -1,6 +1,6 @@
 # jobbr-cm-artefactstorage [![Build status](https://ci.appveyor.com/api/projects/status/akvsehv0wvwbo08a?svg=true)](https://ci.appveyor.com/project/Jobbr/jobbr-cm-artefactstorage)
 
-This Repository contains speficications, aka. Component Models for implementing additional **Artefact Storages** for [Jobbr](https://www.jobbr.io).
+This Repository contains specifications, aka. Component Models for implementing additional **Artefact Storages** for [Jobbr](https://www.jobbr.io).
 
 
 > **What is Jobbr**?
