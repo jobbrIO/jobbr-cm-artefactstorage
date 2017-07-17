@@ -1,6 +1,6 @@
 # jobbr-cm-artefactstorage [![Build status](https://ci.appveyor.com/api/projects/status/akvsehv0wvwbo08a?svg=true)](https://ci.appveyor.com/project/Jobbr/jobbr-cm-artefactstorage)
 
-This Repository contains a speficications, aka. Component Models for implementing additional **Artefact Storages** for [Jobbr](https://www.jobbr.io).
+This Repository contains speficications, aka. Component Models for implementing additional **Artefact Storages** for [Jobbr](https://www.jobbr.io).
 
 
 > **What is Jobbr**?
@@ -10,4 +10,4 @@ This Repository contains a speficications, aka. Component Models for implementin
 Please see [ReadTheDocs/Architecture](http://jobbr.readthedocs.io/en/latest/intro/architecture.html#) for the general approach and information how Component Models work. Don't miss the chance to read [ReadTheDocs/Extend Jobbr](http://jobbr.readthedocs.io/en/latest/dev/extend.html) if you want to build your own component for Jobbr.
 
 ### Issues
-There is no issue tracker, please head to the concrete implementation of your **Artefact Storage** in use or create an issue on the jobbrIO/jobbr-server repository.
+There is no issue tracker, please head to the concrete implementation of your **Artefact Storage** in use or create an issue on the [jobbrIO/jobbr-server](https://github.com/jobbrIO) repository.
