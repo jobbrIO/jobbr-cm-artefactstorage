@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Jobbr is a .NET JobServer</description>
     <copyright>Copyright 2017</copyright>
-    <iconUrl>https://raw.githubusercontent.com/jobbrIO/artwork/master/build/icons/icon_detailed_256_dark.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/jobbrIO/artwork/master/build/icons/icon_addon_256_dark.png</iconUrl>
   </metadata>
   <files>
     <file src="Jobbr.ComponentModel.ArtefactStorage/bin/Release/Jobbr.ComponentModel.ArtefactStorage.dll" target="lib\net462"/>
