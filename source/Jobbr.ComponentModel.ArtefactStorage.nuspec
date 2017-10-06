@@ -8,8 +8,8 @@
     <projectUrl>http://github.com/jobbrIO/jobbr-cm-artefactstorage</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/jobbrIO/jobbr-cm-artefactstorage/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Component Models for implementing Artefact Storages</description>
     <copyright>Copyright 2017</copyright>
+    <description>Component Models for implementing JobStorage-Providers</description>
     <iconUrl>https://raw.githubusercontent.com/jobbrIO/artwork/master/build/icons/icon_addon_256_dark.png</iconUrl>
   </metadata>
   <files>
