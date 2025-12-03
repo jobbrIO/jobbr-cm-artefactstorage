@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This repository is obsolete.  
+> Development of Jobbr has been moved to the [jobbr mono-repo](https://github.com/jobbrIO/jobbr).
+
 # jobbr-cm-artefactstorage [![Build status](https://img.shields.io/appveyor/ci/Jobbr/jobbr-cm-artefactstorage/develop.svg?label=develop)](https://ci.appveyor.com/project/Jobbr/jobbr-cm-artefactstorage)
 
 This Repository contains specifications, aka. Component Models for implementing additional **Artefact Storages** for [Jobbr](https://www.jobbr.io).
